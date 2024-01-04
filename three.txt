@@ -2,4 +2,5 @@ three
 hello
 I am learning Git 
 I want to be a good programmer but i am always lazy my own dailies work.
-I am worried about that
+I am worried about that.
+i am still learning.
